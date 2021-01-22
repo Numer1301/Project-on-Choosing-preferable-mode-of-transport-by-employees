@@ -1,2 +1,2 @@
-# Project-on-Choosing-preferable-mode-of-transport-by-employees
+# Project on Choosing preferable mode of transport by employees
 The project involves deciding on the mode of transport that the employees prefer while commuting to the office. For this, multiple models such as KNN, Naive Bayes, Logistic Regression have been created and explored to check their model performance metrics. Bagging and Boosting modeling procedures have also been applied to create the models.
